@@ -1,0 +1,4 @@
+com\zrq\spring5jokesappv2\controllers\JokeController.class
+com\zrq\spring5jokesappv2\services\JokeService.class
+com\zrq\spring5jokesappv2\services\JokeServiceImpl.class
+com\zrq\spring5jokesappv2\Spring5JokesAppV2Application.class
