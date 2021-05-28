@@ -27,3 +27,4 @@ hs_err_pid*
 /mvnw.cmd
 /spring5-jokes-app-v2.iml
 /mvnw
+/target/
